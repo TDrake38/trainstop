@@ -32,3 +32,8 @@ usernames = ["ecumene"]
 slug = "compcibois"
 name = "CompSci@MUN"
 usernames = ["ecumene", "jackharrhy", "nint8835"]
+
+[[buy]]
+username = "urgithubusername"
+deducted = 4
+for = "starbucks10"
